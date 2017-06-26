@@ -1,0 +1,4 @@
+In this particular project, you will be charged of creating an algorithm which
+fits some Tetriminos together into the smallest possible square.
+Main goal is to find this smallest square in the minimal amount of time, 
+despite a exponentially growing number of possibilities each time a piece is added.
